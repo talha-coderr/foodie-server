@@ -1,0 +1,8 @@
+Following packages needs to install to run the project successfully:
+    ==> dotenv
+    ==> underscore
+    ==> body-parser
+    ==> express
+    ==> mongoose
+    npm i dotenv underscore body-parser express mongoose
+
