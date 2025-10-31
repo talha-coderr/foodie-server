@@ -25,7 +25,7 @@ It provides a RESTful API for managing restaurants, menus, users, and orders, fe
 | **Database** | MongoDB with Mongoose |
 | **Authentication** | JWT (JSON Web Tokens) |
 | **Environment Management** | dotenv |
-| **API Testing** | Postman / Thunder Client |
+| **API Testing** | Postman |
 
 ---
 
